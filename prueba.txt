@@ -1,6 +1,10 @@
 primer cambio
 segundo
-tercero
+tercero4
 function prueba ($value){
-console.log('VALUE');
+console.log('VALUE 3');
+}
+
+function prueba2 ($value){
+console.log('VALUE 2');
 }
